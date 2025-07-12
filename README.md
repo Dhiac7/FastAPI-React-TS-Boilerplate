@@ -166,7 +166,7 @@ my_fastapi_project/
 
 ---
 
-**Auteur :** Votre nom
+**Auteur :** Chaouachi Mohamed Dhia
 
 ---
 
